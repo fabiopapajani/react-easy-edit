@@ -25,8 +25,7 @@
     "start": "react-scripts start",
     "build": "rollup -c -o build/react-easy-edit.min.js",
     "test": "react-scripts test",
-    "coverage": "react-scripts test --coverage --watchAll=false",
-    "prepublish": "yarn build"
+    "coverage": "react-scripts test --coverage --watchAll=false"
   },
   "main": "build/react-easy-edit.min.js",
   "repository": {
